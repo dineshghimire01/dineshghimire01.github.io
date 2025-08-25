@@ -1,12 +1,12 @@
 # General
-site_name: "Your Name / Site Title"
-site_description: 'Short Description'
-site_author: 'FirstName LastName'
-site_url: https://cosimichele.github.io/academicpages-mkdocs
+site_name: "Dinesh / Personal Website"
+site_description: 'Personal Webpage of Dinesh Ghimire'
+site_author: 'Dinesh Ghimire'
+site_url: https://dineshghimire01.github.io/
 
 # Repository
 repo_name: RepoName
-repo_url: https://github.com/CosiMichele/academicpages-mkdocs
+repo_url: https://github.com/dineshghimire01/academicpages-mkdocs
 edit_uri: edit/main/docs/
 
 # Configuration
@@ -48,7 +48,7 @@ theme:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: index.md # my homepage
   - Publications: pubs.md
   - Talks: talks.md
   - Teaching: teaching.md

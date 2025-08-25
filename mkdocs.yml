@@ -1,4 +1,4 @@
-# General
+c# General
 site_name: "Dinesh: Personal Website"
 site_description: 'Personal Webpage of Dinesh Ghimire'
 site_author: 'Dinesh Ghimire'
@@ -48,7 +48,7 @@ theme:
 
 # Page tree
 nav:
-  - Home: index.md # my homepage
+  - Home: index.md # my homepage description
   - Research: research.md
   - Teaching: teaching.md
   - Portfolio: portfolio.md

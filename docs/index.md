@@ -1,7 +1,11 @@
 # Home  
+
 Welcome to Dinesh's Personal Website
+
 **Personal background**  
+
 Namaskar/Greetings Fellow's:  
+
 I was born and raised in Lumbini, Nepal. I completed my undergraduate degree in Agriculture science with research focus on plant breeding. Then, I joined West Virginia State University (WVSU)for my MS in Biotechnology. At WVSU, I worked on improving vintage tomato varieties using Marker assisted selection and background selection. I also worked on incompatibility issues while crossing heirlooms with the commercial variety. After graduating from WVSU, I joined Cornell University for my doctoral degree. I started from fall of 2023 in the field of plant breeding and genetics. Currently, I am a third-year PhD student in Robbins lab, where my research focuses on using advanced statistical models, quantitative genetics, and sensor data for modeling crop growth and development, working on multiple crops (alfalfa, maize, soybean, cotton, tomato, and canola). 
 
 

@@ -49,8 +49,7 @@ theme:
 # Page tree
 nav:
   - Home: index.md # my homepage
-  - Publications: pubs.md
-  - Talks: talks.md
+  - Research: research.md
   - Teaching: teaching.md
   - Portfolio: portfolio.md
   - Blog Posts: blog.md
